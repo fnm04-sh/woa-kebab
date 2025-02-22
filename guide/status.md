@@ -12,6 +12,7 @@ Currently there are no drivers for OnePlus 8T
 | ♋ Cellular Texts      |                                                 | ❌            |
 | ♋ Wifi                |                                                 | ❌            |
 | 📦 UFS                 |                                                 | ✅            |
+| 📦 Brightness                 |GPU Request                                                 |❌             |
 | 🔵 Bluetooth           |                                                 | ❌            |
 | 🎆 GPU                 |                                                 | ❌            |
 | 🔋 Battery             |                                                 | ❌            |
